@@ -185,7 +185,7 @@ Time=18 | s[1]=0 s[0]=0 | Inputs: a[0]=1 a[1]=1 a[2]=1 a[3]=1
 ```
 **Output waveform** <br>
 <br>
-![Screenshot 2024-11-15 111538](https://github.com/user-attachments/assets/4f55fc4a-fadd-4eb0-8049-0adffc938892)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/eaf77dac-7d94-4953-bff0-54a98d4427de" />
 
 <br>
 
